@@ -7,17 +7,6 @@ markdown
 
 An internship project, Landing Page using HTML, TAILWIND CSS and JS.  
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
-
 
 ## Technologies Used
 
