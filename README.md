@@ -19,8 +19,7 @@ Highlight the technologies, languages, and frameworks used in your project.
 
 ## Getting Started
 
-To view the project, open a new terminal from the root directory and enter the command " npm run dev " follow the link given.
-
+  # To view the project, open a new terminal from the root directory and enter the command " npm run dev " follow the link given.
+    npm run dev
 OR
-
-# Open index.html in your web browser
+  # Open index.html in your web browser
