@@ -1,6 +1,6 @@
 # CodeClauseInternship_LandingPage
 
-##This repository hosts the code and assets for my internship project landing page.
+## This repository hosts the code and assets for my internship project landing page.
 
 markdown
 # Parralax landing page, personal photography portfolio
