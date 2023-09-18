@@ -5,8 +5,8 @@
 markdown
 # Parralax landing page, personal photography portfolio
 
-An internship project, Landing Page using HTML, TAILWIND CSS and JS.  
-
+An internship project, Landing Page with minimilistic UI, user friendly interface dummy contact form and awesome parallax effect for visual appeal.  
+HOPE YOU LIKE IT :)
 
 ## Technologies Used
 
