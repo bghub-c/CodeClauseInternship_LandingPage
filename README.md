@@ -15,7 +15,7 @@ Highlight the technologies, languages, and frameworks used in your project.
 - HTML
 - CSS
 - JavaScript
-- TAilwind CSS
+- Tailwind CSS
 
 ## Getting Started
 
